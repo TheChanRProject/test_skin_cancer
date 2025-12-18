@@ -1,0 +1,7 @@
+timm
+torch
+torch-geometric
+scikit-image
+scikit-learn
+opencv-python
+albumentations
